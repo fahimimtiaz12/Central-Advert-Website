@@ -49,7 +49,7 @@ const members = [
         instagram: "https://www.instagram.com/exquisite_demon_3/?igsh=N3dkOWwzOW56dDlz"
     },
     {
-        img: "media/member4.jpg",
+        img: "media/member4.jpeg",
         name: "Nusrat Jahan",
         role: "Social Media Manager",
         bio: "Specialist in content strategy, brand growth, social media ads, and maintaining strong digital presence for brands.",
@@ -178,3 +178,4 @@ window.addEventListener("resize", () => {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 });
+
